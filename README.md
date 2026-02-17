@@ -1,7 +1,7 @@
 # Oracle Pluggable Database Assignment II
 
-**Student ID:** 27164  
-**First Name:** GASANA LANCE JONATHAN  
+**Student ID:** 27427 
+**First Name:** ISHIMWE SUSURUTSA Nardin
 
 ## Overview
 This project demonstrates the creation, management, and deletion of Oracle Pluggable Databases (PDBs). The tasks include:
@@ -12,8 +12,8 @@ This project demonstrates the creation, management, and deletion of Oracle Plugg
 
 
 ## Task 1: Create a New Pluggable Database
-**PDB Name:** `la_pdb_27164`  
-**Admin User:** `lance_plsqlauca_27164`  
+**PDB Name:** `na_pdb_27164`  
+**Admin User:** `nardin_plsqlauca_27427`  
 
 The PDB was created from the `PDB$SEED` using the `CREATE PLUGGABLE DATABASE` command with explicit `FILE_NAME_CONVERT` paths. After creation, the PDB was opened and verified. The admin user was confirmed to exist inside the PDB.
 
@@ -54,6 +54,6 @@ EM Express was configured and accessed via a web browser. After setting `DBMS_XD
 
 
 ---
-**Repository Link:** [https://github.com/Lance-7-1-2/oracle_pdb_ass_II_27164_lance](https://github.com/Lance-7-1-2/oracle_pdb_ass_II_27164_lance)  
+**Repository Link:** [https://github.com/Lance-7-1-2/oracle_pdb_ass_II_27164_lance](https://github.com/Lance-7-1-2/oracle_pdb_ass_II_27427_nardin_ishimwe)  
 **PDB Name Created:** la_pdb_27164  
 **Issues Encountered:** Yes
